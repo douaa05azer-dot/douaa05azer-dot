@@ -22,8 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=32&duration=3500&pause=1200&color=8FB3D1&center=true&vCenter=true&width=650&height=80&lines=Good+Things+Take+Time+%E2%99%A1;Small+steps+every+day+lead+to+big+dreams" alt="Good Things Take Time" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:8fb3d1,100:0d1b2a&height=3" width="100%" />
-
 <h2 align="center">✨ My Tech Stack</h2>
 
 <p align="center">
