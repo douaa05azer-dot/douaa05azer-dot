@@ -4,14 +4,18 @@
 
 <table align="center">
 <tr>
-<td valign="middle">
-<img src="https://api.iconify.design/mdi/laptop.svg?color=%238fb3d1" width="18" alt="" />&nbsp; Computer Engineering Graduate<br/><br/>
-<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238fb3d1" width="18" alt="" />&nbsp; Interested in AI & Data Science<br/><br/>
-<img src="https://api.iconify.design/mdi/web.svg?color=%238fb3d1" width="18" alt="" />&nbsp; Web Development<br/><br/>
-<img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%238fb3d1" width="18" alt="" />&nbsp; Always learning something new
+<td valign="middle" width="360">
+<br/>
+&nbsp;&nbsp;<img src="https://api.iconify.design/mdi/laptop.svg?color=%238fb3d1" width="22" alt="" />&nbsp; Computer Engineering Graduate<br/><br/>
+&nbsp;&nbsp;<img src="https://api.iconify.design/mdi/robot-outline.svg?color=%238fb3d1" width="22" alt="" />&nbsp; Interested in AI & Data Science<br/><br/>
+&nbsp;&nbsp;<img src="https://api.iconify.design/mdi/web.svg?color=%238fb3d1" width="22" alt="" />&nbsp; Web Development<br/><br/>
+&nbsp;&nbsp;<img src="https://api.iconify.design/mdi/book-open-page-variant-outline.svg?color=%238fb3d1" width="22" alt="" />&nbsp; Always learning something new
+<br/><br/>
 </td>
-<td valign="middle" align="center">
-<img src="assets/anime.gif" width="250" />
+<td valign="middle" align="center" width="360">
+<br/>
+<img src="assets/anime.gif" width="320" />
+<br/><br/>
 </td>
 </tr>
 </table>
